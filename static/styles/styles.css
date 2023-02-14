@@ -1,0 +1,37 @@
+*{
+
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+img{
+  border-radius: 50px;
+}
+
+.mainDiv{
+  width: 100vh;
+  height: 100vh;
+}
+
+#div1{
+  width: 200px;
+  height: 200px;
+  text-align: left;
+  margin-left: 100px;
+}
+
+
+#text1{
+  text-align: center;
+}
+
+
+#div2{
+  width: 400px;
+  height: 400px;
+  text-align: right;
+  margin-right: 100px;
+}
+
+
+#text2{
+  text-align: center;
+}
