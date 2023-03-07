@@ -63,3 +63,13 @@ img{
 #text4{
   text-align: center;
 }
+
+.backGroudImage{
+  background-image: url("coolBG.jpg");
+}
+
+a {
+  text-decoration: none;
+  color: hotpink;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
